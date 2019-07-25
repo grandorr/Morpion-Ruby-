@@ -8,8 +8,8 @@ require_relative 'Player.rb'
 require_relative 'Game.rb'
 
 
-morpion = Game.new 
-morpion.turn
+morpion = Game.new # Initialise le jeu #
+morpion.turn # Lance le jeu # 
 
 
 
